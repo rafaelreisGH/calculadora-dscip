@@ -1,0 +1,16 @@
+# Variáveis de ambiente sensíveis
+.env
+
+# Logs do sistema e servidores
+*.log
+backend/controllers/errors.log
+
+# Dependências
+vendor/
+node_modules/
+
+# Configurações de IDE e SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
